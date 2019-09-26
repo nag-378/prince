@@ -1,0 +1,35 @@
+=>git init            (hidden directory)
+=>git config --global user.name "git"           (user name)
+=>git config --global user.email "nag@gmail.com"   (mail)
+=>git config --list          (config details)
+
+
+=>ls
+
+=>ls -a        (list with hidden directory)
+
+=>git status            (details of workspace/staging)
+
+=>git add fil1.txt       (file send from  workspace to staging)
+=>git add */-A/.
+
+
+=>touch file1              (file creation)
+
+
+=>git commit -m "msg" file1         (file send from staging to local repository)
+=>git commit -m "label" (message)      (sending all files)
+
+
+=>git log                   (details about local repository)
+=>git log --oneline          (single line o/p)
+=>git log --oneline -n        (no of previous logs)
+=>git log --author=username    (author of log details) 
+=>git log --author=username --oneline -n
+=>git log --since=yy-mm-dd  (perticular time onwards)  
+=>git log --until=yy-mm-dd  (perticular time period)
+
+=>git show coommitid            (details of commitid)
+ 
+
+
