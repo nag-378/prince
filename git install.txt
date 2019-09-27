@@ -1,4 +1,0 @@
-install in linux
-================
-yum install git ( install git)
-yum remove git (dlt git)
