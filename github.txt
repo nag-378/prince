@@ -1,5 +1,0 @@
-username :--- nag-378
-password  :-- nagsuri1
-=> git clone path(path of githup rep)
-=> git push
-=> git pull
