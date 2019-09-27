@@ -1,0 +1,3 @@
+=>git reset head file1 (comeback from staging to workspace)
+=>git reset --soft cmtid (comebck from loc rep to staging)
+=>git reset --mixed cmtid (comback from loc rep to workspace)

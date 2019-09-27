@@ -1,0 +1,12 @@
+username :--- nag-378
+password  :-- nagsuri1
+=>git clone path(path of githup rep)
+=>git push
+=>git pull
+=>git branch                (list of branches)
+=>git branch branchname     (create a branch)
+=>git checkout -b branchname (change the branch)
+=>git checkout branchname   (change the branch)
+=>git merge branchname      (add files to other branch)
+=>git branch -d branchname  (dlt branch)
+=>git rm -r folder-name     (dlt the file)
